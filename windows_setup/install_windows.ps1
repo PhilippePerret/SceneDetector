@@ -18,7 +18,7 @@ catch {
 }
 
 # Créer le dossier de travail
-$workDir = "$env:USERPROFILE\Programmes\Analyses-films"
+$workDir = "$env:USERPROFILE\Programmes\SceneDetector"
 if (-not (Test-Path $workDir)) {
     New-Item -ItemType Directory -Path $workDir -Force | Out-Null
 }

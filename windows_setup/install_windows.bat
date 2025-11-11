@@ -6,8 +6,8 @@ echo ============================================================
 REM Créer le dossier de travail
 if not exist "%USERPROFILE%\Programmes" mkdir "%USERPROFILE%\Programmes"
 cd /d "%USERPROFILE%\Programmes"
-if not exist "Analyses-films" mkdir "Analyses-films"
-cd "Analyses-films"
+if not exist "SceneDetector" mkdir "SceneDetector"
+cd "SceneDetector"
 
 echo Répertoire de travail: %CD%
 
