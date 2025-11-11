@@ -1,0 +1,9 @@
+{
+  "start": "0:20:00",
+  "end": "0:21:00",
+  "interval": 4,
+  "output": "./analyses/",
+  "films_folder": "./model-scene-corpus/",
+  "film_path": "analyses/_films-done/HaroldAndMaude.mp4",
+  "comment": "Si film_path est défini, il prend la priorité sur films_folder"
+}

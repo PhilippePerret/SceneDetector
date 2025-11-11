@@ -1,0 +1,28 @@
+{
+  "regles_continuité": [
+    {
+      "nom": "Classe_Professeur_Eleves",
+      "plan1": ["homme", "tableau", "noir", "professeur", "enseigner"],
+      "plan2": ["étudiant", "élève", "assis", "écouter", "classe"],
+      "lieu_unifie": "ECOLE#1",
+      "force": 0.9,
+      "description": "Prof devant tableau → étudiants = même salle de classe"
+    },
+    {
+      "nom": "Cuisine_Preparation_Repas", 
+      "plan1": ["cuisiner", "four", "casserole", "préparer"],
+      "plan2": ["table", "assiette", "manger", "repas"],
+      "lieu_unifie": "CUISINE#1",
+      "force": 0.8,
+      "description": "Préparation cuisine → repas = même lieu"
+    },
+    {
+      "nom": "Voiture_Conduite",
+      "plan1": ["conduire", "volant", "route"],
+      "plan2": ["passager", "siège", "voiture"],
+      "lieu_unifie": "VOITURE#1", 
+      "force": 0.95,
+      "description": "Conducteur → passagers = même voiture"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "lieux": {
+    "CUISINE": ["cuisine", "frigo", "évier", "four", "placard", "cuisinier", "casserole", "poêle"],
+    "SALON": ["salon", "canapé", "télé", "fauteuil", "séjour", "télévision", "living"],
+    "CHAMBRE": ["chambre", "lit", "oreiller", "armoire", "couette", "matelas", "réveil"],
+    "BUREAU": ["bureau", "ordinateur", "chaise", "table", "travail", "clavier", "écran"],
+    "RUE": ["rue", "route", "trottoir", "voiture", "extérieur", "avenue", "boulevard", "carrefour"],
+    "BAR": ["bar", "comptoir", "verre", "bouteille", "alcool", "bière", "whisky", "serveur"],
+    "RESTAURANT": ["restaurant", "table", "assiette", "serveur", "menu", "dîner", "repas"],
+    "VOITURE": ["voiture", "auto", "siège", "volant", "conduite", "automobile", "véhicule"],
+    "PARC": ["parc", "arbre", "herbe", "banc", "jardin", "nature", "verdure"],
+    "HÔPITAL": ["hôpital", "médecin", "infirmier", "lit médical", "blouse", "stéthoscope"],
+    "ÉCOLE": ["école", "classe", "tableau", "élève", "professeur", "craie", "cartable"],
+    "MAGASIN": ["magasin", "boutique", "vendeur", "client", "caisse", "acheter"],
+    "PLAGE": ["plage", "sable", "mer", "océan", "vague", "parasol", "maillot"],
+    "MONTAGNE": ["montagne", "sommet", "rocher", "neige", "ski", "randonnée"],
+    "FORÊT": ["forêt", "bois", "arbres", "feuilles", "sentier", "nature"],
+    "GARE": ["gare", "train", "quai", "voyageur", "locomotive", "wagon"],
+    "AÉROPORT": ["aéroport", "avion", "terminal", "passager", "baggage", "vol"],
+    "TRIBUNAL": ["tribunal", "juge", "avocat", "procès", "justice", "palais"],
+    "PRISON": ["prison", "cellule", "barreaux", "gardien", "détenu", "pénitencier"],
+    "STADE": ["stade", "terrain", "sport", "joueur", "match", "spectateur"]
+  }
+}
